@@ -1,0 +1,42 @@
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.bol1 a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.bol2 a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.bola a, .bola1 a, .bola2 a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: #fff;
+}
+
+.as {
+  background: #160E33;
+}
+
+.ota {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+body {
+  background: #160E33;
+}
+
+.asd {
+  background-image: url("../images/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,16 @@
+@import "fonts";
+@import "visually-hidden";
+@import "normalize";
+@import "general";
+@import "all-blocks/all-blocks";
+
+body {
+    background: #160E33;
+}
+
+.asd {
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
